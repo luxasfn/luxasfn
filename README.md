@@ -7,7 +7,7 @@
  
  <!--- div das bagdes -->
  <div style="display: inline_block"><br>
-  - 🌱 I’m currently learning:<br>
+  - 🌱 Eu estou aprendendo:<br>
   <img align="center" alt="luxas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="luxas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="luxas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,7 +18,7 @@
 </div>
 <br>
   <div>
- - 📫 How to reach me: ... <br><br>
+ - 📫 Contato <br><br>
   <a href = "lucasfn@estudante.ufscar.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luxasfn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://medium.com/@luxasfn" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
@@ -28,14 +28,14 @@
 Here are some ideas to get you started:
 
 
-- 🔭 I’m currently working on ...
+- 🔭 Atualmente estou trabalhando na...
+Atualmente estou procurando a minha primeira experiência com tecnlogia, você pode ver meu CV aqui
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about:
+JS, HTML/CSS, Python, Manutenção de hardware e game mod
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
+Tenho mais quadrinhos que amigos.
 -->
 
 <div align="center"/>
