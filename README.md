@@ -23,22 +23,24 @@
   <a href="https://www.linkedin.com/in/luxasfn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://medium.com/@luxasfn" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   </div>
-<!---
-  ## 
-Here are some ideas to get you started:
 
 
+<div>
 - 🔭 Atualmente estou trabalhando na...
 Atualmente estou procurando a minha primeira experiência com tecnlogia, você pode ver meu CV aqui
+</div>
 
+<div>
 - 💬 Ask me about:
 JS, HTML/CSS, Python, Manutenção de hardware e game mod
+</div>
 
-- ⚡ Fun fact:
+<div>
+-⚡ Fun fact:
 Tenho mais quadrinhos que amigos.
--->
+</div>
 
-<div align="center"/>
+<div align="left"/>
  
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luxasfn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxasfn&layout=compact&langs_count=7&theme=tokyonight"/>
