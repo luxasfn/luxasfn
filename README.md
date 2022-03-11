@@ -18,27 +18,27 @@
 </div>
 <br>
   <div>
- - 📫 Contato <br><br>
+ - 📫 Contato <br>
   <a href = "lucasfn@estudante.ufscar.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luxasfn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://medium.com/@luxasfn" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  </div>
+  </div><br>
 
 
 <div>
-- 🔭 Atualmente estou trabalhando na...
+- 🔭 Atualmente estou trabalhando na... <br>
 Atualmente estou procurando a minha primeira experiência com tecnlogia, você pode ver meu CV aqui
-</div>
+</div><br>
 
 <div>
-- 💬 Ask me about:
+- 💬 Ask me about: <br>
 JS, HTML/CSS, Python, Manutenção de hardware e game mod
-</div>
+</div><br>
 
 <div>
--⚡ Fun fact:
+-⚡ Fun fact: <br>
 Tenho mais quadrinhos que amigos.
-</div>
+</div><br>
 
 <div align="left"/>
  
