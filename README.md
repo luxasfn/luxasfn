@@ -27,16 +27,16 @@
 
 <div>
 - 🔭 Atualmente estou trabalhando na... <br>
-Atualmente estou procurando a minha primeira experiência com tecnlogia, você pode ver meu CV aqui
+Atualmente estou procurando a minha primeira experiência com linguística computacional, você pode ver meu CV aqui.
 </div><br>
 
 <div>
-- 💬 Ask me about: <br>
+- 💬 Pergunte-me sobre: <br>
 JS, HTML/CSS, Python, Manutenção de hardware e game mod
 </div><br>
 
 <div>
--⚡ Fun fact: <br>
+-⚡ Fato engraçado: <br>
 Tenho mais quadrinhos que amigos.
 </div><br>
 
