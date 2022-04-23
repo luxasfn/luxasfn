@@ -2,7 +2,7 @@
 ### Oi, eu sou Luxas!
 
 <!--- Imagem da bio -->
- <a href="https://www.instagram.com/p/CFC49L4nc_s/" target="_blank"><img alt="luxas-pic" height="150em" style="border-radius:60px;" src="https://instagram.fcfc1-1.fna.fbcdn.net/v/t51.2885-15/119129665_349718136078950_4419146805127831219_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=instagram.fcfc1-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=o1AnFa0qa1sAX9nMeMJ&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MjM5NjcyODQ0Njk2ODI1NDQ0NA%3D%3D.2-ccb7-4&oh=00_AT-91-7V_1-CHdzx994toGFDJinmqTYKrVZdFPzmtxGiiQ&oe=622B82A4&_nc_sid=30a2ef"/></a>
+ <a href="https://www.instagram.com/p/CFC49L4nc_s/" target="_blank"><img alt="luxas-pic" height="150em" style="border-radius:60px;" src="https://github.com/luxasfn/luxasfn/blob/main/media/img_readme.png"/></a>
 <br>
  
  <!--- div das bagdes -->
