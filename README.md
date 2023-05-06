@@ -44,5 +44,4 @@ Tenho mais quadrinhos que amigos.
     
  </div> 
  
- Ilustração do README feita pela Laís Bicudo. E você pode ver o portfólio dela aqui. 
- <a href="https://laisbicudo.myportfolio.com" target="_blank"> https://laisbicudo.myportfolio.com </a>
+ 
