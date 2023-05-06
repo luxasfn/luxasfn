@@ -1,10 +1,6 @@
 
-### Oi, eu sou Luxas!
+### Oi, eu sou Lucas!
 
-<!--- Imagem da bio -->
- <a href="https://www.instagram.com/p/CFC49L4nc_s/" target="_blank"><img alt="luxas-pic" height="150em" style="border-radius:60px;" src="https://github.com/luxasfn/luxasfn/blob/main/media/img_readme.png"/></a>
-<br>
- 
  <!--- div das bagdes -->
  <div style="display: inline_block"><br>
   - 🌱 Eu estou aprendendo:<br>
