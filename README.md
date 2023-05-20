@@ -28,7 +28,7 @@ Atualmente estou procurando a minha primeira experiência com linguística compu
 
 <div>
 - 💬 Pergunte-me sobre: <br>
-JS, HTML/CSS, Python, Manutenção de hardware e game mod
+JS, Python, PLN, REGEX e Chatbot
 </div><br>
 
 <div>
