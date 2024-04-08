@@ -22,8 +22,8 @@
 
 
 <div>
-- 🔭 Atualmente estou trabalhando na... <br>
-Atualmente estou procurando a minha primeira experiência com linguística computacional, você pode ver meu CV aqui.
+- 🔭 Atualmente procurando uma recolocação no mercado como linguísta computacional <br>
+
 </div><br>
 
 <div>
@@ -38,7 +38,7 @@ Tenho mais quadrinhos que amigos.
 
 <div align="left"/>
  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luxasfn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxasfn&layout=compact&langs_count=7&theme=tokyonight"/>
   
     
