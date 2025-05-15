@@ -1,47 +1,49 @@
+# Olá, eu sou o Lucas Ferreira 👋
 
-### Oi, eu sou Lucas!
+**Especialista em Chatbots • Python Developer • Analista de Dados**
 
- <!--- div das bagdes -->
- <div style="display: inline_block"><br>
-  - 🌱 Eu estou aprendendo:<br>
-  <img align="center" alt="luxas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="luxas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="luxas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="luxas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="luxas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="luxas-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  
-</div>
-<br>
-  <div>
- - 📫 Contato: <br>
-  <a href = "lucasfn@estudante.ufscar.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luxasfn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://medium.com/@luxasfn" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  </div><br>
+---
 
+🚀 **Sobre mim**  
+Sou apaixonado por transformar dados e conversas em soluções reais. Tenho experiência em:
 
-<div>
-- 🔭 Atualmente procurando uma recolocação no mercado como linguísta computacional <br>
+- 🤖 **Desenvolvimento de Chatbots**  
+  - Plataformas: Blip, Ubots, Microsoft Bot Framework  
+  - Criação de fluxos conversacionais otimizados e integrações via API REST  
+  - Monitoramento de KPIs, logs e melhorias contínuas
 
-</div><br>
+- 🐍 **Python Development**  
+  - Automação de ETL/ELT, construção de pipelines de dados  
+  - Frameworks: Pandas, NumPy, scikit-learn, FastAPI  
+  - Testes, documentação e versão de código usando Git
 
-<div>
-- 💬 Pergunte-me sobre: <br>
-JS, Python, PLN, REGEX e Chatbot
-</div><br>
+- 📊 **Análise de Dados**  
+  - SQL avançado e modelagem de dados em Databricks/Hadoop  
+  - Visualização e storytelling com Power BI, Metabase e Matplotlib  
+  - Machine Learning: validação, tuning e monitoramento de modelos
 
-<div>
--⚡ Fato engraçado: <br>
-Tenho mais quadrinhos que amigos.
-</div><br>
+---
 
-<div align="left"/>
- 
+💼 **O que você vai encontrar aqui**  
+- Projetos de **chatbots** com exemplos de fluxos e integrações  
+- Notebooks de **análise exploratória** e **modelagem preditiva**  
+- APIs em **FastAPI** e automações de dados  
+- Scripts de **ETL/ELT** e demonstrações de boas práticas em Python
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxasfn&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-    
- </div> 
- 
- 
+---
+
+🌱 **Sempre aprendendo**  
+- Estudos em GenAI, NLP e visão computacional  
+- Aprofundando técnicas de MLOps, DataOps e arquitetura de dados escaláveis  
+- Atualizações constantes sobre tendências em IA e analytics
+
+---
+
+📫 **Vamos conversar?**  
+- 📧 lucaas.nf@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/luxasfn/)  
+- ⭐️ Se gostar dos projetos, deixe uma estrela e fique à vontade para abrir issues ou pull requests!
+
+---
+
+> “Transformando dados em decisões e conversas em experiências.”  
